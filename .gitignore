@@ -1,0 +1,4 @@
+*.png
+PictureViewer/bin/Debug/Test.txt
+PictureViewer/bin/Release/Test.txt
+*.bmp

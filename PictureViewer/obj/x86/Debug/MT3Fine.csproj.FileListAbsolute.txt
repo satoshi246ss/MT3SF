@@ -1,0 +1,12 @@
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\bin\Debug\OpenCvSharp.dll
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\bin\Debug\VideoInputSharp.dll
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\obj\x86\Debug\PictureViewer.Form1.resources
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\bin\Debug\MT3Fine.exe.config
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\bin\Debug\MT3Fine.exe
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\bin\Debug\MT3Fine.pdb
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\obj\x86\Debug\MT3Fine.Properties.Resources.resources
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\obj\x86\Debug\MT3Fine.exe
+C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\obj\x86\Debug\MT3Fine.pdb
